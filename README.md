@@ -1,1 +1,1 @@
-everything about fingerprint descriptor for 2019-nCoV Machine Learning Models
+everything about fingerprint and descriptor for 2019-nCoV machine learning models
